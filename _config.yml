@@ -23,7 +23,7 @@ repository               : "Qiuting-Cai/Qiuting-Cai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "QiutingCai.jpg"
   name             : "Qiuting Cai"
   pronouns         : # example: "she/her"  
   bio              : "M.S. Student, IC"
