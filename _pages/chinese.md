@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-我目前是[东南大学](https://www.seu.edu.cn/) [集成电路学院](https://ic.seu.edu.cn/) 集成电路工程专业的硕士研究生，导师为[彭亚锐教授](https://ic.seu.edu.cn/pyr/main.htm)。
+我目前是[东南大学集成电路学院](https://ic.seu.edu.cn/) 集成电路工程专业的硕士研究生，导师为[彭亚锐教授](https://ic.seu.edu.cn/pyr/main.htm)。
 
 我的研究兴趣是电子设计自动化，重点研究方向为 Chiplet 设计与先进封装设计。
 
