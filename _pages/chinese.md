@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "中文"
+title: "中文简介"
 permalink: /chinese/
 author_profile: true
 ---
-
-# 中文简介
 
 我目前是东南大学集成电路学院集成电路工程专业的硕士研究生，导师为彭亚锐教授。
 
