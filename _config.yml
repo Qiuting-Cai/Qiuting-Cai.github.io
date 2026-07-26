@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Qiuting Cai"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student at Southeast University"
+  bio              : "M.S. Student,IC"
   location         : "Wuxi, China"
-  employer         : "Red Brick University"
+  employer         : "Southeast University"
   uri              : "https://Qiuting-Cai.github.io"
   email            : "qt.cai@outlook.com" 
 
@@ -57,7 +57,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
