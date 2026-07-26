@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an M.S. student majoring in Integrated Circuit Engineering at the School of Integrated Circuits, Southeast University (SEU),advised by Prof. Yarui Peng.
+I am currently an M.S. student in [Integrated Circuit Engineering](https://ic.seu.edu.cn/ic_en/) at the [School of Integrated Circuits](https://ic.seu.edu.cn/ic_en/), [Southeast University](https://www.seu.edu.cn/), advised by Prof. [Yarui Peng](https://ic.seu.edu.cn/pyr/main.htm).
 
 My research interests center on electronic design automation (EDA), with an emphasis on chiplet design and advanced package design.
 
-I received my Bachelor of Engineering degree in Integrated Circuit Design and Integrated Systems from Fuzhou University in 2026.
+I received my B.Eng. degree in Integrated Circuit Design and Integrated Systems from [Fuzhou University](https://www.fzu.edu.cn/) in 2026.
