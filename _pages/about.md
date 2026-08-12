@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Download latest CV/resume (PDF)](/files/resume.pdf)
+[Download latest resume (PDF)](/files/resume.pdf)
 
 I am currently an M.S. student in [Integrated Circuit Engineering](https://ic.seu.edu.cn/ic_en/) at the [School of Integrated Circuits](https://ic.seu.edu.cn/ic_en/), [Southeast University](https://www.seu.edu.cn/), advised by Prof. [Yarui Peng](https://ic.seu.edu.cn/pyr/main.htm).
 
