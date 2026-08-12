@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download latest CV/resume (PDF)](/files/resume.pdf)
+
 ## Education
 
 * M.S. in Integrated Circuit Engineering, Southeast University, 2029 (Expected)
